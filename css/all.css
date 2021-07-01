@@ -6,8 +6,10 @@
 		height: 651.9px;
 	}
 	#SECTION4>.ladi-overlay {
-		background-color: rgb(24, 22, 33);
-		opacity: 0.72;
+		/* background-color: rgb(24, 22, 33);
+		opacity: 0.72; */
+		background-color: #fff;
+		opacity: 0.2;
 	}
 	#SECTION4>.ladi-section-background {
 		background-size: cover;
@@ -133,8 +135,10 @@
 		height: 1089.5px;
 	}
 	#SECTION588>.ladi-overlay {
-		background-color: rgb(24, 22, 33);
-		opacity: 0.3;
+		/* background-color: rgb(24, 22, 33);
+		opacity: 0.3; */
+		background-color: #fff;
+		opacity: 0.2;
 	}
 	#SECTION588>.ladi-section-background {
 		background-size: cover;
@@ -148,7 +152,7 @@
 		height: 1409.83px;
 	}
 	#SECTION610>.ladi-overlay {
-		background-color: rgba(25, 23, 34, 0.7);
+		background-color: rgba(25, 23, 34, 0.2);
 	}
 	#SECTION610>.ladi-section-background {
 		background-size: cover;
@@ -813,8 +817,10 @@
 		height: 1350.5px;
 	}
 	#SECTION738>.ladi-overlay {
-		background-color: rgb(24, 22, 33);
-		opacity: 0.7;
+		/* background-color: rgb(24, 22, 33);
+		opacity: 0.7; */
+		background-color: #fff;
+		opacity: 0.2;
 	}
 	#SECTION738>.ladi-section-background {
 		background-size: cover;
@@ -2760,8 +2766,10 @@
 		height: 614.9px;
 	}
 	#SECTION1646>.ladi-overlay {
-		background-color: rgb(24, 22, 33);
-		opacity: 0.84;
+		/* background-color: rgb(24, 22, 33);
+		opacity: 0.84; */
+		background-color: #fff;
+		opacity: 0.2;
 	}
 	#SECTION1646>.ladi-section-background {
 		background-size: cover;
@@ -5610,8 +5618,10 @@
 		height: 1177.17px;
 	}
 	#SECTION1169>.ladi-overlay {
-		background-color: rgb(24, 22, 33);
-		opacity: 0.66;
+		/* background-color: rgb(24, 22, 33);
+		opacity: 0.66; */
+		background-color:#fff;
+		opacity: 0.2;
 	}
 	#SECTION1169>.ladi-section-background {
 		background-size: cover;
@@ -5696,8 +5706,10 @@
 		height: 453.198px;
 	}
 	#SECTION4>.ladi-overlay {
-		background-color: rgb(6, 21, 37);
-		opacity: 0.73;
+		/* background-color: rgb(6, 21, 37);
+		opacity: 0.73; */
+		background-color: #fff;
+		opacity: 0.2;
 	}
 	#SECTION4>.ladi-section-background {
 		background-size: cover;
@@ -8826,7 +8838,8 @@
 	}
 	#BOX1804 {
 		width: 399.543px;
-		height: 166px;
+		/* height: 166px; */
+		height: 181px;
 		top: 0px;
 		left: 0px;
 	}
@@ -8903,7 +8916,8 @@
 	}
 	#GROUP1803 {
 		width: 399.543px;
-		height: 180.92px;
+		/* height: 180.92px; */
+		height: 195.92px;
 		top: 382.001px;
 		left: 11.2285px;
 	}
@@ -8987,7 +9001,7 @@
 	#GROUP1811 {
 		width: 399.543px;
 		height: 251px;
-		top: 562.921px;
+		top: 577.921px;
 		left: 11.2285px;
 	}
 	#BOX1820 {
@@ -9070,7 +9084,7 @@
 	#GROUP1819 {
 		width: 399.543px;
 		height: 177px;
-		top: 836.001px;
+		top: 846.001px;
 		left: 11.2285px;
 	}
 	#IMAGE1829 {
@@ -11100,8 +11114,12 @@
 		top: auto;
 		left: auto;
 		bottom: 70px;
-		right: 20px;
+		right: 120px;
+		/* top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%); */
 		position: fixed;
+		/* position: absolute; */
 		z-index: 90000050;
 		margin-right: calc((100% - 420px) / 2);
 	}
