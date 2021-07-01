@@ -8,14 +8,14 @@
 	#SECTION4>.ladi-overlay {
 		/* background-color: rgb(24, 22, 33);
 		opacity: 0.72; */
-		background-color: #fff;
-		opacity: 0.2;
+		background-color: #6A467A;
+		opacity: 0.6;
 	}
 	#SECTION4>.ladi-section-background {
 		background-size: cover;
 		background-attachment: scroll;
 		background-origin: content-box;
-		background-image: url("../img/new/banner/ok/006.png");
+		background-image: url("../img/new/banner/ok/007.png");
 		background-position: center top;
 		background-repeat: no-repeat;
 	}
@@ -137,8 +137,8 @@
 	#SECTION588>.ladi-overlay {
 		/* background-color: rgb(24, 22, 33);
 		opacity: 0.3; */
-		background-color: #fff;
-		opacity: 0.2;
+		background-color: #000;
+		opacity: 0.4;
 	}
 	#SECTION588>.ladi-section-background {
 		background-size: cover;
@@ -152,7 +152,9 @@
 		height: 1409.83px;
 	}
 	#SECTION610>.ladi-overlay {
-		background-color: rgba(25, 23, 34, 0.2);
+		/* background-color: rgba(25, 23, 34, 0.2); */
+		background-color: #6A467A;
+		opacity: .2;
 	}
 	#SECTION610>.ladi-section-background {
 		background-size: cover;
@@ -819,7 +821,7 @@
 	#SECTION738>.ladi-overlay {
 		/* background-color: rgb(24, 22, 33);
 		opacity: 0.7; */
-		background-color: #fff;
+		background-color: #6A467A;
 		opacity: 0.2;
 	}
 	#SECTION738>.ladi-section-background {
@@ -2768,8 +2770,8 @@
 	#SECTION1646>.ladi-overlay {
 		/* background-color: rgb(24, 22, 33);
 		opacity: 0.84; */
-		background-color: #fff;
-		opacity: 0.2;
+		background-color: #6A467A;
+		opacity: 0.4;
 	}
 	#SECTION1646>.ladi-section-background {
 		background-size: cover;
