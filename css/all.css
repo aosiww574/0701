@@ -138,7 +138,7 @@
 		/* background-color: rgb(24, 22, 33);
 		opacity: 0.3; */
 		background-color: #000;
-		opacity: 0.4;
+		opacity: 0.6;
 	}
 	#SECTION588>.ladi-section-background {
 		background-size: cover;
@@ -153,8 +153,8 @@
 	}
 	#SECTION610>.ladi-overlay {
 		/* background-color: rgba(25, 23, 34, 0.2); */
-		background-color: #6A467A;
-		opacity: .2;
+		background-color: #000;
+		opacity: .6;
 	}
 	#SECTION610>.ladi-section-background {
 		background-size: cover;
@@ -5437,9 +5437,11 @@
 		left: 0px;
 	}
 	#BOX1587>.ladi-box {
-		background: rgba(92, 10, 51, 1);
+		/* background: rgba(92, 10, 51, 1);
 		background: -webkit-linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
-		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
+		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1)); */
+		background: -webkit-linear-gradient(180deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
+		background: linear-gradient(0deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
 	}
 	#BOX1586 {
 		width: 400px;
@@ -5468,9 +5470,11 @@
 		left: 0px;
 	}
 	#BOX1584>.ladi-box {
-		background: rgba(92, 10, 51, 1);
+		/* background: rgba(92, 10, 51, 1);
 		background: -webkit-linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
-		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
+		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1)); */
+		background: -webkit-linear-gradient(180deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
+		background: linear-gradient(0deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
 	}
 	#BOX1583 {
 		width: 400px;
@@ -5499,9 +5503,11 @@
 		left: 0px;
 	}
 	#BOX1581>.ladi-box {
-		background: rgba(92, 10, 51, 1);
+		/* background: rgba(92, 10, 51, 1);
 		background: -webkit-linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
-		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
+		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1)); */
+		background: -webkit-linear-gradient(180deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
+		background: linear-gradient(0deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
 	}
 	#BOX1580 {
 		width: 400px;
@@ -5531,8 +5537,12 @@
 	}
 	#BOX1576>.ladi-box {
 		background: rgba(92, 10, 51, 1);
-		background: -webkit-linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
-		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
+		/* background: -webkit-linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
+		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1)); */
+		/* background: -webkit-linear-gradient(180deg, #F7931E,rgba(248, 68, 73, 1.0));
+		background: linear-gradient(180deg, #F7931E,rgba(248, 68, 73, 1.0)); */
+		background: -webkit-linear-gradient(180deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
+		background: linear-gradient(0deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
 	}
 	#BOX1575 {
 		width: 400px;
@@ -5561,9 +5571,11 @@
 		left: 0px;
 	}
 	#BOX1572>.ladi-box {
-		background: rgba(92, 10, 51, 1);
+		/* background: rgba(92, 10, 51, 1);
 		background: -webkit-linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
-		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
+		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1)); */
+		background: -webkit-linear-gradient(180deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
+		background: linear-gradient(0deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
 	}
 	#BOX1571 {
 		width: 400px;
@@ -5586,9 +5598,11 @@
 		left: 0px;
 	}
 	#BOX1568>.ladi-box {
-		background: rgba(145, 16, 81, 1);
+		/* background: rgba(145, 16, 81, 1);
 		background: -webkit-linear-gradient(180deg, rgba(145, 16, 81, 1), rgba(17, 10, 92, 1));
-		background: linear-gradient(180deg, rgba(145, 16, 81, 1), rgba(17, 10, 92, 1));
+		background: linear-gradient(180deg, rgba(145, 16, 81, 1), rgba(17, 10, 92, 1)); */
+		background: -webkit-linear-gradient(180deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
+		background: linear-gradient(0deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
 	}
 	#BOX1567 {
 		width: 400px;
@@ -10869,9 +10883,11 @@
 		left: 0px;
 	}
 	#BOX1587>.ladi-box {
-		background: rgba(92, 10, 51, 1);
+		/* background: rgba(92, 10, 51, 1);
 		background: -webkit-linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
-		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
+		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1)); */
+		background: -webkit-linear-gradient(180deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
+		background: linear-gradient(0deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
 	}
 	#BOX1586 {
 		width: 400px;
@@ -10900,9 +10916,11 @@
 		left: 0px;
 	}
 	#BOX1584>.ladi-box {
-		background: rgba(92, 10, 51, 1);
+		/* background: rgba(92, 10, 51, 1);
 		background: -webkit-linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
-		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
+		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1)); */
+		background: -webkit-linear-gradient(180deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
+		background: linear-gradient(0deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
 	}
 	#BOX1583 {
 		width: 400px;
@@ -10931,9 +10949,11 @@
 		left: 0px;
 	}
 	#BOX1581>.ladi-box {
-		background: rgba(92, 10, 51, 1);
+		/* background: rgba(92, 10, 51, 1);
 		background: -webkit-linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
-		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
+		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1)); */
+		background: -webkit-linear-gradient(180deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
+		background: linear-gradient(0deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
 	}
 	#BOX1580 {
 		width: 400px;
@@ -10962,9 +10982,11 @@
 		left: 0px;
 	}
 	#BOX1576>.ladi-box {
-		background: rgba(92, 10, 51, 1);
+		/* background: rgba(92, 10, 51, 1);
 		background: -webkit-linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
-		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
+		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1)); */
+		background: -webkit-linear-gradient(180deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
+		background: linear-gradient(0deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
 	}
 	#BOX1575 {
 		width: 400px;
@@ -10993,9 +11015,11 @@
 		left: 0px;
 	}
 	#BOX1572>.ladi-box {
-		background: rgba(92, 10, 51, 1);
+		/* background: rgba(92, 10, 51, 1);
 		background: -webkit-linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
-		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1));
+		background: linear-gradient(180deg, rgba(92, 10, 51, 1), rgba(17, 10, 92, 1)); */
+		background: -webkit-linear-gradient(180deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
+		background: linear-gradient(0deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
 	}
 	#BOX1571 {
 		width: 400px;
@@ -11018,9 +11042,11 @@
 		left: 0px;
 	}
 	#BOX1568>.ladi-box {
-		background: rgba(145, 16, 81, 1);
+		/* background: rgba(145, 16, 81, 1);
 		background: -webkit-linear-gradient(180deg, rgba(145, 16, 81, 1), rgba(17, 10, 92, 1));
-		background: linear-gradient(180deg, rgba(145, 16, 81, 1), rgba(17, 10, 92, 1));
+		background: linear-gradient(180deg, rgba(145, 16, 81, 1), rgba(17, 10, 92, 1)); */
+		background: -webkit-linear-gradient(180deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
+		background: linear-gradient(0deg, rgba(228, 20, 14, 1.0), rgba(248, 68, 73, 1.0));
 	}
 	#BOX1567 {
 		width: 400px;
