@@ -3825,7 +3825,9 @@
 		width: 310px;
 		height: 71.036px;
 		top: 573.864px;
-		left: -385.5px;
+		/* left: -385.5px; */
+		left: 0;
+		z-index: 20;
 	}
 	#HEADLINE1863 {
 		width: 433px;
@@ -5708,7 +5710,7 @@
 		top: auto;
 		left: auto;
 		bottom: 70px;
-		right: 20px;
+		right: 0;
 		position: fixed;
 		z-index: 90000050;
 	}
