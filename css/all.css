@@ -3769,10 +3769,13 @@
 
     #IMAGE1704>.ladi-image>.ladi-image-background {
         width: 1161.87px;
-        height: 580.933px;
-        top: -32.9327px;
-        left: -583.567px;
-        background-image: url("../img/new/girl/02.png");
+        /* height: 580.933px; */
+        height: 500.933px;
+        top: 50.9327px;
+        left: 100px;
+        /* left: -583.567px; */
+        background-image: url("../img/new/girl/03.png");
+        background-size: contain;
     }
 
     #BUTTON_TEXT1792 {
@@ -10219,7 +10222,7 @@
         height: 479.348px;
         top: -32.9327px;
         left: -583.567px;
-        background-image: url("../img/new/girl/02.png");
+        background-image: url("../img/new/girl/03.png");
     }
 
     #BUTTON_TEXT1792 {
