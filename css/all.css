@@ -3770,11 +3770,12 @@
     #IMAGE1704>.ladi-image>.ladi-image-background {
         width: 1161.87px;
         /* height: 580.933px; */
-        height: 500.933px;
-        top: 50.9327px;
+        /* height: 500.933px; */
+        height: 400.933px;
+        top: 100.9327px;
         left: 100px;
         /* left: -583.567px; */
-        background-image: url("../img/new/girl/03.png");
+        background-image: url("../img/new/girl/05.png");
         background-size: contain;
     }
 
@@ -4226,9 +4227,12 @@
     #IMAGE1830>.ladi-image>.ladi-image-background {
         width: 941.187px;
         height: 627.458px;
+        /* height:550.458px; */
         top: -0.158px;
-        left: -82px;
-        background-image: url("../img/new/girl/01.png");
+        /* left: -82px; */
+        left: 100px;
+        background-image: url("../img/new/girl/03.png");
+        background-size: contain;
     }
 
     #IMAGE1830.ladi-animation>.ladi-image {
@@ -4240,6 +4244,7 @@
         -webkit-animation-duration: 1s;
         animation-iteration-count: 1;
         -webkit-animation-iteration-count: 1;
+        overflow: visible;
     }
 
     #IMAGE1831 {
@@ -10222,7 +10227,7 @@
         height: 479.348px;
         top: -32.9327px;
         left: -583.567px;
-        background-image: url("../img/new/girl/03.png");
+        background-image: url("../img/new/girl/05.png");
     }
 
     #BUTTON_TEXT1792 {
@@ -10647,7 +10652,8 @@
         height: 239.7px;
         top: -0.094037px;
         left: -48.8042px;
-        background-image: url("../img/new/girl/01.png");
+        background-image: url("../img/new/girl/03.png");
+        background-size: contain;
     }
 
     #IMAGE1830.ladi-animation>.ladi-image {
