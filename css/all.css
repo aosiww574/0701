@@ -3771,9 +3771,9 @@
         width: 1161.87px;
         /* height: 580.933px; */
         /* height: 500.933px; */
-        height: 400.933px;
-        top: 100.9327px;
-        left: 100px;
+        height: 380.933px;
+        top: 120.9327px;
+        left: -30px;
         /* left: -583.567px; */
         background-image: url("../img/new/girl/05.png");
         background-size: contain;
@@ -6670,7 +6670,7 @@
     #SECTION4>.ladi-overlay {
         /* background-color: rgb(6, 21, 37);
 		opacity: 0.73; */
-        background-color: #fff;
+        background-color: #000;
         opacity: 0.2;
     }
 
@@ -9468,7 +9468,8 @@
         width: 400px;
         height: 254.174px;
         top: 0px;
-        left: 465px;
+        /* left: 465px; */
+        left: 765px;
     }
 
     #IMAGE1647>.ladi-image>.ladi-image-background {
@@ -10665,6 +10666,7 @@
         -webkit-animation-duration: 1s;
         animation-iteration-count: 1;
         -webkit-animation-iteration-count: 1;
+        overflow: visible;
     }
 
     #IMAGE1831 {
